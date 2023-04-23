@@ -22,4 +22,4 @@ if(valor_foto < 800){//se indica como va ir el bicle
     high(salida);//se dise que si no este debe encender
     }//se cierra el else
     tiempo();//se coloca el delay
-}//finaliza  el programa 
+}//finaliza  el programa. 
